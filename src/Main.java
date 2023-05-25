@@ -26,7 +26,7 @@ public class Main {
         int numeroDigitado;
         int numeroChutes;
 
-        System.out.println(numeroSecreto);
+        //System.out.println(numeroSecreto);
 
         for (numeroChutes = 0; numeroChutes < tentativa; numeroChutes++) {
             System.out.println("▶ " + nome + ", Adivinhe que número estou pensando: ");
