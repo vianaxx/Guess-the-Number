@@ -23,8 +23,12 @@
 - Informs players whether they've won or lost the game.
 - Supports customization of the number of attempts.
 
+## Acknowledgements
+
+This project is inspired by the JetBrains Academy.
+
+![JogoAdvinhacaoJava](https://github.com/vianaxx/JogoAdivinhacao/assets/124326973/87fcc686-bf7d-49a4-a80d-0d31798b9f0a)
+
 Feel free to customize and expand this game according to your preferences. You can modify the range of the random number, change the number of attempts, or add more features to enhance the gameplay.
 
 Have fun playing the "Guess the Number" game and see if you can correctly guess the secret number!
-
-![JogoAdvinhacaoJava](https://github.com/vianaxx/JogoAdivinhacao/assets/124326973/87fcc686-bf7d-49a4-a80d-0d31798b9f0a)
